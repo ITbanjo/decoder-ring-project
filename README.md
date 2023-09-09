@@ -1,4 +1,4 @@
-### Decoder Ring
+# Decoder Ring
 
 Decoder ring is a simple, one page, site that contains three different encryption methods. The user may choose to Encode or Decode an input string.
 
